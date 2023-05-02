@@ -1,0 +1,5 @@
+int b+1;
+indentifier:int
+indentifier:b
+operator:+
+constant:1
